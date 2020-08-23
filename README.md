@@ -1,3 +1,3 @@
 # Dino-Runner-AI
 
-AI that plays Dnio Runner using NEAT and pygame
+AI that plays Dino Runner using NEAT and pygame
